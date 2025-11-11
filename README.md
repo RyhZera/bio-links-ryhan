@@ -6,7 +6,7 @@ O objetivo é centralizar todos os links importantes em um só lugar, com um vis
 ---
 
 ## 🖥️ Demonstração do Site
-🔗 [Acesse o projeto aqui](https://ryhancamilo.github.io/link-na-bio-ryhan/)  
+🔗 [Acesse o projeto aqui](https://ryhzera.github.io/bio-links-ryhan/)  
 
 ---
 
